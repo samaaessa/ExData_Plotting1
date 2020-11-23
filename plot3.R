@@ -1,5 +1,5 @@
 # read data
-data <- read.table("/home/samaaessa/Desktop/DS coursera/course 4/exdata_data_household_power_consumption/household_power_consumption.txt",sep = ';',header = T)
+data <- read.table("exdata_data_household_power_consumption/household_power_consumption.txt",sep = ';',header = T)
 
 #plot 3
 #Global Active Power per days
